@@ -13,6 +13,7 @@ See full description here: https://cs50.harvard.edu/ai/2020/projects/2/heredity/
 
 Usage: python heredity.py [data.csv]
 
+```
 Example:
 $ python heredity.py data/family0.csv
 Harry:
@@ -39,3 +40,4 @@ Lily:
   Trait:
     True: 0.0000
     False: 1.0000
+```
